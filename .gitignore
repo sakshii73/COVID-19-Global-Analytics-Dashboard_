@@ -1,0 +1,14 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Tableau temporary / lock files
+*.tmp
+*.lock
+*.tfl
+*.tflx
+
+# Editor files
+.vscode/
+.idea/
